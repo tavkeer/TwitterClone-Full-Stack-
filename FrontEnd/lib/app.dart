@@ -3,7 +3,6 @@ import 'package:jwt_decoder/jwt_decoder.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:twitterclone/features/home/bloc/home_bloc.dart';
-import 'package:twitterclone/features/home/ui/home.dart';
 import 'package:twitterclone/features/login/bloc/login_bloc.dart';
 import 'package:twitterclone/features/main_page/ui/main_page.dart';
 import 'package:twitterclone/features/main_page/bloc/main_bloc.dart';
@@ -33,7 +32,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: "TwitterClone",
         theme: ThemeData(scaffoldBackgroundColor: Colors.black),
-        home: (getToken()) ? const MainPage() : const HomePage(),
+        home: (getToken()) ? const MainPage() : const MainPage(),
       ),
     );
   }
