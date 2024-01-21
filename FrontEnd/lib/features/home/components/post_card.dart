@@ -7,10 +7,7 @@ import 'package:twitterclone/features/home/utils/icon_title.dart';
 
 class PostCardWidget extends StatelessWidget {
   final Post post;
-  const PostCardWidget({
-    super.key,
-    required this.post,
-  });
+  const PostCardWidget({super.key, required this.post});
 
   @override
   Widget build(BuildContext context) {
