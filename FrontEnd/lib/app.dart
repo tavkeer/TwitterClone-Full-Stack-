@@ -3,6 +3,7 @@ import 'package:jwt_decoder/jwt_decoder.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:twitterclone/features/home/bloc/home_bloc.dart';
+import 'package:twitterclone/features/home/ui/home.dart';
 import 'package:twitterclone/features/login/bloc/login_bloc.dart';
 import 'package:twitterclone/features/main_page/ui/main_page.dart';
 import 'package:twitterclone/features/main_page/bloc/main_bloc.dart';
