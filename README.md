@@ -7,7 +7,7 @@ Full Stack App
 
 ## Overview
 
-This project is a Twitter clone implemented as a full-stack application using Flutter for the frontend and Go (Golang) for the backend. It replicates the basic functionalities of Twitter, allowing users to post tweets, follow other users, and engage in conversations.
+This project is a Twitter clone implemented as a Full-stack application using Flutter for the frontend and Go (Golang) for the backend. It replicates the basic functionalities of Twitter, allowing users to post tweets, follow other users, and engage in conversations.
 
 ## Features
 
