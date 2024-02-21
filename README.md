@@ -1,4 +1,4 @@
-Full Stack App
+Full Stack Flutter App
 
 
 ![yRsRRjGO_400x400](https://github.com/tavkeer/TwitterClone-Full-Stack-/assets/105163810/a7a31742-34a9-4e61-82f2-9a370e11fdfe)
